@@ -6,4 +6,10 @@ For a given data point in the set, the algorithms find the distances between thi
 
 (From Data Science Blogathon; Basil Saji — January 20, 2021: https://www.analyticsvidhya.com/blog/2021/01/a-quick-introduction-to-k-nearest-neighbor-knn-classification-using-python/).
 
-#### Data Generation
+### Data Generation
+Generatation of 200 random values, distributed around 20. Plotting the histogram will generate a not linear distribution...
+
+![image](https://user-images.githubusercontent.com/86708470/167184007-9f256135-7742-4df9-a8d6-3f7ba9f33a5a.png)
+
+#### Simple Linear Regression
+Simple linear regression is used to model the relationship between two continuous variables. Often, the objective is to predict the value of an output variable (or response) based on the value of an input (or predictor) variable.
