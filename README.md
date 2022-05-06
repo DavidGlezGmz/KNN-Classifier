@@ -14,6 +14,7 @@ Generatation of 1,500 random values for training, 3 clases (0,1,2), for validati
 
 ### Results
 
-Accuracy of 0.9686% for testing
+Accuracy of 0.9686% for testing.
+
 ![image](https://user-images.githubusercontent.com/86708470/167213857-cbfc6ef0-9d14-41cb-a673-d868425fb739.png)
 
