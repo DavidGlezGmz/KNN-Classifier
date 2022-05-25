@@ -18,3 +18,11 @@ Accuracy of 0.9686% for testing.
 
 ![image](https://user-images.githubusercontent.com/86708470/167213857-cbfc6ef0-9d14-41cb-a673-d868425fb739.png)
 
+
+## PIMA COUNTY dataset and implement a KNN classifier
+
+In this project a database for Raw-Houses is presented. The objective is to do a deep exploration to analyze the houses that do not have their kitchens equipped using KNN (k nearest neighbors) and Linear Regression. Initially, we have a database with 5,000 observations and 16 features.
+
+The document is divided into the follow ingsections for data processing, as shown below:
+![image](https://user-images.githubusercontent.com/86708470/170279788-f4467c55-2bd8-4a27-89d2-cbadf89ec5f6.png)
+![image](https://user-images.githubusercontent.com/86708470/170279951-3f68dad0-56a2-422b-a75c-a0bf4b68e317.png)
