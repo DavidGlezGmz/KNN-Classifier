@@ -19,7 +19,28 @@ Accuracy of 0.9686% for testing.
 ![image](https://user-images.githubusercontent.com/86708470/167213857-cbfc6ef0-9d14-41cb-a673-d868425fb739.png)
 
 
-## PIMA COUNTY dataset and implement a KNN classifier
+
+
+
+## Pima County Category Classification & Price Forecasting
+
+The provided Pima County housing dataset contains 49 features 
+● Four were used in the classification model:
+      ○ Sales Price           ○ Longitude
+      ○ Square Footage        ○ Latitude
+● An additional nine features were chosen for potential use in the regression model:
+      ○ Sale Date             ○ Number of Bathrooms
+      ○ ZIP Code              ○ Number of Garages
+      ○ Lot Size              ○ Garage Capacity
+      ○ Year Built            ○ Pool Size
+      ○ Number of Rooms
+
+![image](https://user-images.githubusercontent.com/86708470/170288428-f8cff6da-7561-43a3-8f00-8c43585b20e2.png)
+
+
+
+
+## Pima County exploration to analyze the houses that do not have their kitchens equipped.
 
 In this project a database for Raw-Houses is presented. The objective is to do a deep exploration to analyze the houses that do not have their kitchens equipped using KNN (k nearest neighbors) and Linear Regression. Initially, we have a database with 5,000 observations and 16 features.
 
